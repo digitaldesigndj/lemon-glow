@@ -12,4 +12,8 @@ I think this used to work online. On github pages, but not anymore? I can't get 
 
 It still works on localhost. I think this is an autoplay issue?
 
+The good news? Updated with relative links. Clone into a subdirectory of a webserver and take a look!
+
+Like this http://localhost/lemon-glow
+
 Enjoy!
