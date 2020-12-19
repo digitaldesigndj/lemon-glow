@@ -6,6 +6,8 @@ As noted above autoplay is unreliable. Its kinda fun to see the offset change. S
 
 [Click Here!: digitaldesigndj.github.com/lemon-glow](https://digitaldesigndj.github.com/lemon-glow)
 
+[or Here](https://lemon.hyprtxt.dev/)
+
 ---
 
 I think this used to work online. On github pages, but not anymore? I can't get it started.
