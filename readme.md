@@ -5,3 +5,11 @@ You can find more of thier music here: https://www.youtube.com/channel/UCN-jxm11
 As noted above autoplay is unreliable. Its kinda fun to see the offset change. Some are better than others. 
 
 [Click Here!: digitaldesigndj.github.com/lemon-glow](https://digitaldesigndj.github.com/lemon-glow)
+
+---
+
+I think this used to work online. On github pages, but not anymore? I can't get it started.
+
+It still works on localhost. I think this is an autoplay issue?
+
+Enjoy!
